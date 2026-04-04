@@ -1,4 +1,4 @@
-# 🐝 Hey there! 👋
+# Hey there! 👋
 
 I'm **Michał Żądło** — an AI & ML engineer from Poland 🧠⚙️  
 
