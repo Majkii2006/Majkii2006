@@ -15,14 +15,14 @@ I'm **Michał Żądło** — an AI & ML engineer from Poland 🧠⚙️
 ### 🧠 Tech Stack
 **Languages:** Python, C++, Bash
 **Frameworks:** PyTorch, Sk-learn, Pandas, NumPy, MatPlotLib, Flask, Django  
-**Tools:** Linux (Fedora <3), VS Code, Git  
+**Tools:** Linux *Fedora Enjoyer*, VS Code, Git  
 
 ---
 
-### 🐝 Fun Facts
+### 🐝 Hobbies
 
-- I prefer clean, efficient code over fancy hacks.  
-- I love debugging almost as much as training models.  
+- Playing Guitar
+- Automotive
 
 ---
 My surname literally means *“Sting”*.
