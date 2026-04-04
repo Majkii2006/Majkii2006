@@ -14,7 +14,9 @@ I'm **Michał Żądło** — an AI & ML engineer from Poland 🧠⚙️
 
 ### 🧠 Tech Stack
 **Languages:** Python, C++, Bash
-**Frameworks:** PyTorch, Sk-learn, Pandas, NumPy, MatPlotLib, Flask, Django  
+
+**Frameworks:** PyTorch, Sk-learn, Pandas, NumPy, MatPlotLib, Flask, Django
+
 **Tools:** Linux *Fedora Enjoyer*, VS Code, Git  
 
 ---
