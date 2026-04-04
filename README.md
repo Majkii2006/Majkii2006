@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Majkii2006/Majkii2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐝 Hey there! 👋
 
-Here are some ideas to get you started:
+I'm **Michał Żądło** — an AI & ML engineer from Poland 🧠⚙️  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### ⚔️ What I’m working on
+- 🔊 Web App for Warehouse Management
+- 🖼️ First Contact Tools to support health assessment
+- 🧩 Exploring model interpretability and transfer learning
+
+---
+
+### 🧠 Tech Stack
+**Languages:** Python, C++, Bash
+**Frameworks:** PyTorch, Sk-learn, Pandas, NumPy, MatPlotLib, Flask, Django  
+**Tools:** Linux (Fedora <3), VS Code, Git  
+
+---
+
+### 🐝 Fun Facts
+
+- I prefer clean, efficient code over fancy hacks.  
+- I love debugging almost as much as training models.  
+
+---
+My surname literally means *“Sting”*.
