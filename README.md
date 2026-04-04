@@ -24,7 +24,8 @@ I'm **Michał Żądło** — an AI & ML engineer from Poland 🧠⚙️
 ### 🐝 Hobbies
 
 - Playing Guitar
-- Automotive
+- Cars and Automotive
+- Video Games
 
 ---
 My surname literally means *“Sting”*.
