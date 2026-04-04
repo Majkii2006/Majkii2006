@@ -6,7 +6,7 @@ I'm **Michał Żądło** — an AI & ML engineer from Poland 🧠⚙️
 ---
 
 ### ⚔️ What I’m working on
-- 🔊 Web App for Warehouse Management
+- 🗓️ Web App for Warehouse Management
 - 🖼️ First Contact Tools to support health assessment
 - 🧩 Exploring model interpretability and transfer learning
 
