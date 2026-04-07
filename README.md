@@ -17,7 +17,8 @@ I'm **Michał Żądło** — an AI & ML engineer from Poland 🧠⚙️
 
 **Frameworks:** PyTorch, Scikit-learn, Pandas, NumPy, MatPlotLib, Flask, Django
 
-**Tools:** Linux - *Fedora Enjoyer*, VS Code, Git, PyCharm,   
+**Tools:** Linux - *Fedora Enjoyer*, VS Code, Git, PyCharm   
+
 
 ---
 
@@ -28,4 +29,6 @@ I'm **Michał Żądło** — an AI & ML engineer from Poland 🧠⚙️
 - Video Games
 
 ---
+**Portfolio:** https://majkii2006.github.io/
+
 My surname literally means *“Sting”*.
