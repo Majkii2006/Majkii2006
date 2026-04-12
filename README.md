@@ -6,7 +6,7 @@ I'm **Michał Żądło** — an AI & ML engineer from Poland 🧠⚙️
 ---
 
 ### ⚔️ What I’m working on
-- 🗓️ AI Image Analysis
+- 🗓️ AI Implemetations
 - 🖼️ Deep Learning CNN's
 - 🧩 Exploring model interpretability and transfer learning
 
