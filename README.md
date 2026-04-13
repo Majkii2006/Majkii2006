@@ -9,6 +9,7 @@ I'm **Michał Żądło** — an AI & ML engineer from Poland 🧠⚙️
 - 🗓️ AI Implemetations
 - 🖼️ Deep Learning CNN's
 - 🧩 Exploring model interpretability and transfer learning
+- ☎️ Backend Engineering
 
 ---
 
