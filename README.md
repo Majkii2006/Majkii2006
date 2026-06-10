@@ -1,10 +1,10 @@
-# Hey there! 👋
+# Hey there! 
 
-I'm **Michał Żądło** — an Computer Science Student from Poland 🧠⚙️  
+I'm **Michał Żądło** — an Computer Science Student from Poland 
 I like math, programming and cars.
 ---
 
-### ⚔️ What I’m working on
+### What I’m working on
 - 🗓️ Low-Latency OrderBook Engine
 - 🖼️ Deep Learning CNN's
 - ☎️ Backend Engineering
