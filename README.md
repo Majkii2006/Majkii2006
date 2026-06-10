@@ -1,35 +1,11 @@
 # Hey there! 👋
 
-I'm **Michał Żądło** — an AI & ML engineer from Poland 🧠⚙️  
-
-
+I'm **Michał Żądło** — an Computer Science Student from Poland 🧠⚙️  
+I like math, programming and cars.
 ---
 
 ### ⚔️ What I’m working on
-- 🗓️ AI Implemetations
+- 🗓️ Low-Latency OrderBook Engine
 - 🖼️ Deep Learning CNN's
-- 🧩 Exploring model interpretability and transfer learning
 - ☎️ Backend Engineering
 
----
-
-### 🧠 Tech Stack
-**Languages:** Python, C++, Bash
-
-**Frameworks:** PyTorch, Scikit-learn, Pandas, NumPy, MatPlotLib, Flask, Django
-
-**Tools:** Linux, VS Code, Git, PyCharm   
-
-
----
-
-### 🐝 Hobbies
-
-- Playing Guitar
-- Cars and Automotive
-- Video Games
-
----
-**Portfolio Web:** https://majkii2006.github.io/
-
-My surname literally means *“Sting”*.
