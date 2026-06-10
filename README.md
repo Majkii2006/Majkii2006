@@ -1,6 +1,7 @@
 # Hey there! 
 
-I'm **Michał Żądło** — an Computer Science Student from Poland 
+I'm **Michał Żądło** — an Computer Science Student from Poland.
+---
 I like math, programming and cars.
 ---
 
