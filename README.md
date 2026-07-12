@@ -11,7 +11,7 @@ I like math, programming and cars.
 - ☎️ Backend Engineering
 
 ### Currently reading:
-- C++17 in Detail
-- OSTEP
+- 📑 C++17 in Detail
+- 📑 OSTEP
 
 
