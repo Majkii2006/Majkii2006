@@ -10,7 +10,7 @@ I like math, programming and cars.
 - 🖼️ Deep Learning CNN's
 - ☎️ Backend Engineering
 
-### Currently reading:
+### Currently reading
 - 📘 C++17 in Detail
 - 📘 OSTEP
 
