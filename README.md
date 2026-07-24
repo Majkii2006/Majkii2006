@@ -9,6 +9,7 @@ I like math, programming and cars.
 - 🗓️ Low-Latency OrderBook Engine
 - 🖼️ Deep Learning CNN's
 - ☎️ Backend Engineering
+- 🏦 Reverse Engineering
 
 ### Currently reading
 - 📘 C++17 in Detail
