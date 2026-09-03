@@ -7,7 +7,7 @@ I like math, programming and cars.
 
 ### What I’m working on
 - 🗓️ Low-Latency OrderBook Engine
-- 🖼️ Deep Learning CNN's
+- 🖼️ Embedded Engineering (RISC-V, ARM)
 - ☎️ Implementing Different Cache Policies
 - 🏦 Reverse Engineering
 
