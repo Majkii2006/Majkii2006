@@ -15,6 +15,10 @@ I like math, programming and cars.
 - 📘 C++17 in Detail
 - 📘 OSTEP
 
-### Low-level programming is banger
+
+
+
+
+Low-Level Programming is crazy
 
 
