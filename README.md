@@ -7,7 +7,8 @@ I like math, programming and cars.
 
 ### What I’m working on and learning
 - 🗓️ Low-Latency OrderBook Engine
-- 🖼️ Embedded Engineering (RISC-V, ARM)
+- 🖼️ Embedded Engineering
+- 💻 Making a hardware driver for the 7 Segment Display with muxes
 - ☎️ Implementing Different Cache Policies
 - 🏦 Reverse Engineering
 
