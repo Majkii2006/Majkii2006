@@ -8,7 +8,7 @@ I like math, programming and cars.
 ### What I’m working on and learning
 - 🗓️ Low-Latency OrderBook Engine
 - 🖼️ Embedded Engineering
-- 💻 Making a library in C for the 7 Segment Display with Muxes
+- 💻 Making a library for the 7 Segment Display with Muxes
 - ☎️ Implementing Different Cache Policies
 - 🏦 Reverse Engineering
 
