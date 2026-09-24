@@ -20,6 +20,6 @@ I like math, programming and cars.
 
 
 
-Low-Level Programming is crazy
+Low-Level Programming is so cool...
 
 
