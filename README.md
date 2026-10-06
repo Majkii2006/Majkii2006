@@ -15,6 +15,7 @@ I like math, programming and cars.
 ### Currently reading
 - 📘 C++17 in Detail
 - 📘 OSTEP
+- 📘 Clean Code
 
 
 
