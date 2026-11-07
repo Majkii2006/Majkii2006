@@ -2,7 +2,7 @@
 
 I'm **Michał Żądło** — an Computer Science Student from Poland.
 ---
-I like math, programming and cars.
+I like math, programming and aviation.
 ---
 
 ### What I’m working on and learning
