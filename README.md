@@ -8,8 +8,7 @@ I like math, programming and aviation.
 ### What I’m working on and learning
 - 🗓️ Low-Latency OrderBook Engine
 - 🖼️ Embedded Engineering
-- 💻 Making a library for the 7 Segment Display with Muxes
-- ☎️ Implementing Different Cache Policies
+- 🖥️ Bookmaker Info Scrapper with Odds Analysis
 - 🏦 Reverse Engineering
 
 ### Currently reading
