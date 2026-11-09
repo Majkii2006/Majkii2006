@@ -13,8 +13,8 @@ I like math, programming and aviation.
 
 ### Currently reading
 - 📘 C++17 in Detail
-- 📘 OSTEP
 - 📘 Clean Code
+- 📘 Effecitve C++
 
 
 
